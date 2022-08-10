@@ -18,9 +18,9 @@ import ReactDOM from 'react-dom/client';
 import App from './App';
 
 // CSS
-import './css/global.css';
-import './css/palettes.css';
-import './css/typography.css';
+import './assets/css/global.css';
+import './assets/css/palettes.css';
+import './assets/css/typography.css';
 import './main.css';
 
 
