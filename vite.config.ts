@@ -9,5 +9,5 @@ export default defineConfig({
     outDir: './release',
   },
 
-  base: '/tenzies/',
+  base: '/feed-reader/',
 })
