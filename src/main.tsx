@@ -8,7 +8,7 @@
     "vite:beforeUpdate",
     () => console.clear()
   );
-}
+};
 // DEVELOPMENT
 
 
