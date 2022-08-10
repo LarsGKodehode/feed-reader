@@ -1,0 +1,14 @@
+.App {
+  /* placement */
+}
+
+.logo {
+  /* placement */
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  
+
+  /* shape */
+  margin: 1em;
+}
