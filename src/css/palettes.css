@@ -1,0 +1,44 @@
+/* ===== PALETTES CONSTANTS ===== */
+:root {
+  --palette-action-500: #5035FF;
+
+  --palette-success-500: #27B1E0;
+
+  --palette-error-500: #E00E03;
+
+  --palette-neutral-500: #524C4C;
+
+  --palette-white: #FFFFFF;
+
+  --palette-black: #000000;
+
+  --palette-shadow: #0000004f;
+}
+
+/* ====== PALETTE THEMES ====== */
+
+/* bright theme */
+#App[data-theme = "dark"] {
+  /* Primary */
+  --palette-primary-300: #AFCCCC;
+  --palette-primary-400: #798C8C;
+  --palette-primary-500: #374040;
+  --palette-primary-600: #424D4D;
+  --palette-primary-700: #2C3333;
+
+  --palette-primary-300-text: #272F2F;
+  --palette-primary-400-text: #141919;
+  --palette-primary-500-text: #DFDFDF;
+  --palette-primary-600-text: #D9FCFC;
+  --palette-primary-700-text: #B4D2D2;
+  
+  /* Secondary */
+  --palette-secondary-500: #0B2434;
+  
+  --palette-secondary-500-text: #003340;
+  
+  /* Tertiary */
+  --palette-tertiary-500: #59E391;
+  
+  --palette-tertiary-500-text: #001820;
+}

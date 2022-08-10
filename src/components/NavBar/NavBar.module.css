@@ -1,0 +1,28 @@
+.wrapper {
+  /* variables */
+  --navbar-width: 25vw;
+
+  /* placement */
+  position: absolute;
+  top: 0px;
+  left: calc(var(--navbar-width) * -1);
+
+  /* shape */
+  width: calc(10vw + var(--navbar-width));
+  height: 100vh;
+
+  /* color */
+  background-color: var(--palette-primary-400);
+  color: var(--palette-primary-400-text);
+
+  /* animation */
+  animation: all 2s ease-in-out;
+}
+
+.closed {
+  
+}
+
+.open {
+  transform: translateX(25vw);
+}
