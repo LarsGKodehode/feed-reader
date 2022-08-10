@@ -1,7 +1,6 @@
 // 3rd Parties
 
 // CSS
-import { BaseSyntheticEvent } from 'react';
 import styles from './App.module.css';
 
 // Components
