@@ -7,5 +7,20 @@
   preserveAspectRatio="xMidYMid meet"
   viewBox="0 0 100 100">
   
-  <circle cx="50" cy="50" r="50" fill="orange" />
+  <circle cx="25" cy="25" r="25" fill="orange" />
+  <circle cx="25" cy="75" r="25" fill="orange" />
+
+  <path d="
+  M75 0
+  V100
+  L0 50
+  "
+  fill="purple"
+  stroke="purple"
+  />
+
+  <circle cx="60" cy="20" r="15" fill="orange" />
+  <circle cx="40" cy="50" r="15" fill="orange" />
+  <circle cx="60" cy="80" r="15" fill="orange" />
+
 </svg>
