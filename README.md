@@ -6,6 +6,6 @@
 
 
 # Documentation
-[Atom Explainer](http://www.atomenabled.org/)
-[RSS 2.0] (https://validator.w3.org/feed/docs/rss2.html)
-[Atom Publishing Protocol](https://www.rfc-editor.org/rfc/rfc5023)
+- [Atom Explainer](http://www.atomenabled.org/)
+- [RSS 2.0] (https://validator.w3.org/feed/docs/rss2.html)
+- [Atom Publishing Protocol](https://www.rfc-editor.org/rfc/rfc5023)
